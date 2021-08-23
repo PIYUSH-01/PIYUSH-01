@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/52041719/130400434-aa4156a6-d1d7-4680-9c41-f67b64191fa4.gif)
+[![Matrix SVG]![coding-freak](https://user-images.githubusercontent.com/52041719/130400434-aa4156a6-d1d7-4680-9c41-f67b64191fa4.gif)
 
 <p>
   <h1 align="center"><b>Hello there, I'm Piyush Khurana 👋</b></h1>
@@ -84,7 +84,6 @@
 -->
 
 <!-- <br>
-
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
