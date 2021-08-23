@@ -19,6 +19,7 @@
 - 🔭 I’m currently in my last year of Computer Science Engineering :grin:
 - 👨‍💻 I’m currently working heavily on my Porblem Solving skills and DSA.
 - 📱 I'm learning Mobile Application development(iOS) and Web development
+- 😬 I know how to <img width = 65px src = "https://user-images.githubusercontent.com/52041719/130421052-0f7b64c8-3630-45a7-9465-9e036dddf94c.png"> things.😉
 - 💥 2021 Goals: Learn more about software development and get some experience in the industry
 - 💬 We can have a healthy discussion about anything, I am happy to have meaningful conversations :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/piyush-khurana-dev/)
@@ -39,8 +40,10 @@
 <img align="left" alt="Xcode" width="35px" src="https://user-images.githubusercontent.com/52041719/130407936-a6978be6-d381-4974-b153-d37b4b071e17.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="35px" src="https://user-images.githubusercontent.com/52041719/130409538-9a4b190e-b155-4755-9478-240b25bb8ea0.png" />
-<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/52041719/130409785-43de5738-40c8-4a1b-b3c0-b5c74885376a.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="GitHub" width="50px" src="https://user-images.githubusercontent.com/52041719/130409785-43de5738-40c8-4a1b-b3c0-b5c74885376a.png" />
+<img align="left" alt="voice application development" width="55px" src="https://user-images.githubusercontent.com/52041719/130419506-cbf38a24-02e2-481c-97ba-adae68389757.png" />
+<img align="left" alt="googling" width="65px" src="https://user-images.githubusercontent.com/52041719/130421052-0f7b64c8-3630-45a7-9465-9e036dddf94c.png" />
+
 
 </br>
 
