@@ -28,7 +28,7 @@
 
 <br align>
 
-### Languages and Tools: 
+### Languages and Tools known: 
 
 <img align="left" alt="C/C++" width="35px" src="https://user-images.githubusercontent.com/52041719/130408209-298c68f9-9e9c-4f1b-994f-246e1408c7b0.png" />
 <img align="left" alt="Swift" width="35px" src="https://user-images.githubusercontent.com/52041719/130408820-43d04fc7-d496-4c6f-866c-c123d87b9202.png" />
