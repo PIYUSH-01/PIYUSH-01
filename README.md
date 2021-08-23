@@ -1,6 +1,5 @@
-[![coding-freak](https://user-images.githubusercontent.com/52041719/130400434-aa4156a6-d1d7-4680-9c41-f67b64191fa4.gif)
-
-<p>
+<p align = "center">
+  <a href="https://user-images.githubusercontent.com/52041719/130400434-aa4156a6-d1d7-4680-9c41-f67b64191fa4.gif"><img src="https://user-images.githubusercontent.com/52041719/130400434-aa4156a6-d1d7-4680-9c41-f67b64191fa4.gif" /></a>
   <h1 align="center"><b>Hello there, I'm Piyush Khurana 👋</b></h1>
 </p>
 
@@ -14,50 +13,44 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="![giphy](https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif)
-" />
+<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif" />
 
 ### I am a Software Development Engineer in making
 - 🔭 I’m currently in my last year of Computer Science Engineering :grin:
 - 👨‍💻 I’m currently working heavily on my Porblem Solving skills and DSA.
-- 📱 I'm learning Mobile Application development(iOS) and Web development:wink:
+- 📱 I'm learning Mobile Application development(iOS) and Web development
 - 💥 2021 Goals: Learn more about software development and get some experience in the industry
 - 💬 We can have a healthy discussion about anything, I am happy to have meaningful conversations :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/piyush-khurana-dev/)
 - 🏋️‍♂️ I try to: Go beyond and push the bounds
 - 💡 Fun fact: I love connecting with different people :raised_hands:
 
-<br>
+<br align>
 
 ### Languages and Tools: 
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="C/C++" width="35px" src="https://user-images.githubusercontent.com/52041719/130408209-298c68f9-9e9c-4f1b-994f-246e1408c7b0.png" />
+<img align="left" alt="Swift" width="35px" src="https://user-images.githubusercontent.com/52041719/130408820-43d04fc7-d496-4c6f-866c-c123d87b9202.png" />
+<img align="left" alt="Data Structures and Algorithms" width="35px" src="https://user-images.githubusercontent.com/52041719/130408620-cd9e31f5-27d8-4ed7-95e4-98182fe7eb29.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="Java" width="35px" src="https://user-images.githubusercontent.com/52041719/130409959-a6eff352-f860-4fb5-a1ac-07a8e20f12af.png" />
+<img align="left" alt="Xcode" width="35px" src="https://user-images.githubusercontent.com/52041719/130407936-a6978be6-d381-4974-b153-d37b4b071e17.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="SQL" width="35px" src="https://user-images.githubusercontent.com/52041719/130409538-9a4b190e-b155-4755-9478-240b25bb8ea0.png" />
+<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/52041719/130409785-43de5738-40c8-4a1b-b3c0-b5c74885376a.png" />
+<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+</br>
+
+<!-- just to add some extra spaces. -->
 <br>
 <br>
 <br>
 <br>
 
-<p align='center'>
+<!-- <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
 
@@ -65,7 +58,7 @@
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
+</p> -->
 
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
@@ -81,20 +74,16 @@
 <a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
 </a>
--->
+
 
 <!-- <br>
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
-<br> -->
+<br> 
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-#### Thank You-🙏🏼
+<h4 align="center"> Thank You for visiting my profile :grin: </h4>
