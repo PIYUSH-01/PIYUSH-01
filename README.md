@@ -1,5 +1,5 @@
 <p align = "center">
-  <a href="https://user-images.githubusercontent.com/52041719/130400434-aa4156a6-d1d7-4680-9c41-f67b64191fa4.gif"><img src="https://user-images.githubusercontent.com/52041719/130400434-aa4156a6-d1d7-4680-9c41-f67b64191fa4.gif" /></a>
+  <a href="https://user-images.githubusercontent.com/52041719/130410876-f7ed42b8-3a51-4a89-9413-4469e6a89760.gif"><img src="https://user-images.githubusercontent.com/52041719/130410876-f7ed42b8-3a51-4a89-9413-4469e6a89760.gif" width = "600" height = "500" /></a>
   <h1 align="center"><b>Hello there, I'm Piyush Khurana 👋</b></h1>
 </p>
 
