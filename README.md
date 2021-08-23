@@ -1,5 +1,5 @@
 <p align = "center">
-  <a href="https://user-images.githubusercontent.com/52041719/130410876-f7ed42b8-3a51-4a89-9413-4469e6a89760.gif"><img src="https://user-images.githubusercontent.com/52041719/130410876-f7ed42b8-3a51-4a89-9413-4469e6a89760.gif" width = "600" height = "500" /></a>
+  <a href="https://github.com/PIYUSH-01"><img src="https://user-images.githubusercontent.com/52041719/130410876-f7ed42b8-3a51-4a89-9413-4469e6a89760.gif" width = "600" height = "500" /></a>
   <h1 align="center"><b>Hello there, I'm Piyush Khurana 👋</b></h1>
 </p>
 
@@ -7,15 +7,15 @@
 <br>
 <a href="https://www.linkedin.com/in/piyush-khurana-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:piyushkhurana165@gmail.com?subject=Hola%20Piyush"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://PIYUSH-01.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
-<a href="https://www.instagram.com/_heathen1.0.1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://PIYUSH-01.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
+<a href="https://www.instagram.com/_heathen1.0.1/"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
 </p>
 
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif" />
 
-### I am a Software Development Engineer in making
+### I am a Software Development Engineer in making 
 - 🔭 I’m currently in my last year of Computer Science Engineering :grin:
 - 👨‍💻 I’m currently working heavily on my Porblem Solving skills and DSA.
 - 📱 I'm learning Mobile Application development(iOS) and Web development
@@ -90,3 +90,4 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <h4 align="center"> Thank You for visiting my profile :grin: </h4>
+<p align="center"> <a href = https://dribbble.com/amanj203> GIF's source</p>
